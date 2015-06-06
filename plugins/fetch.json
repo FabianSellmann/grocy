@@ -1,0 +1,10 @@
+{
+    "com.mirasense.scanditsdk.plugin": {
+        "source": {
+            "type": "local",
+            "path": "..\\scandit-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
